@@ -1,2 +1,1 @@
-echo "Hello from Jenkins";
-dfghj
+echo "Hello from Jenkins
